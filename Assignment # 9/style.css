@@ -1,0 +1,128 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    outline: none;
+}
+
+body {
+    width: 100%;
+    background-color: #fff;
+}
+
+form {
+    background-color: #fffffd;
+    position: absolute;
+    width: 320px;
+    height: 270px;
+    padding: 10px 5px 20px 5px;
+    margin: -10vh 850px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 6px -7px;
+}
+
+input[type='email'],
+input[type='password'] {
+    display: block;
+    background-color: #fff;
+    margin: auto;
+    border: 1.5pz solid rgb(200, 200, 200);
+    width: 200px;
+    padding: 10px 40px;
+    border-radius: 5px;
+    text-align: center;
+    color: #000;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+
+button {
+    border: none;
+    background-color: #1877f2;
+    color: #fff;
+    margin: auto;
+    width: 283px;
+    display: block;
+    border-radius: 5px;
+    padding: 10px 0px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.f-pws {
+    display: block;
+    width: 200px;
+    margin: auto;
+    margin-top: 10px;
+    color: #1877f2;
+    padding-left: 80px;
+    font-family: 'Segoe UI';
+    font-weight: 400px;
+}
+
+.line {
+    border-top: 1px solid #222;
+    opacity: 0.2;
+}
+
+.btn2 {
+    height: 35px;
+    width: 190px;
+    font-size: 14px;
+    background-color: #42b72a;
+    text-align: center;
+    border-radius: 6px;
+    font-family: 'Segoe UI', sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+    color: #fff;
+    margin-left: 70px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.sub-link h3 {
+    width: 180px;
+    position: relative;
+    color: #000;
+    font-family: 'Segoe UI', sans-serif;
+    padding: 130px 890px;
+    font-size: 12px;
+    font-weight: 600px;
+    margin-top: -50px;
+}
+
+.sub-link h3 a {
+    color: #000;
+    font-weight: bold;
+    font-size: 13px;
+    margin-top: 20px;
+}
+
+.f-container {
+    width: 350px;
+    margin-left: 300px;
+    margin-top: 30vh;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+f-container img {
+    width: 250px;
+}
+
+img {
+    margin-bottom: -20px;
+    margin-left: -45px;
+}
+
+p {
+    font-size: 20px;
+    font-weight: 600;
+    word-spacing: 1px;
+}
+
+.btn2 a {
+    color: white;
+    padding: 3px;
+    text-align: center;
+}

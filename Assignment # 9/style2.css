@@ -1,0 +1,7 @@
+form {
+    width: 600px;
+    height: 500px;
+    position: absolute;
+    background-color: rgb(70, 62, 53);
+    box-shadow: (2px 4px 3px black);
+}
